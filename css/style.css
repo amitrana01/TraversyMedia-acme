@@ -131,10 +131,15 @@ header a:hover{
   text-align: center;
   width: 30%;
   padding: 10px;
+  border: 1px solid #35424a;
 }
 
 #boxes .box img{
   width: 90px;
+}
+
+#boxes .box3{
+  padding-top: 26px;
 }
 
 /* sidebar */
